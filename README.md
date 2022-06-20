@@ -1,10 +1,10 @@
 # ID: 18204002
 # Project Name: Covid Tester
 
-Submited by:
-Md. Mehedi Hasan Protik
-CSE, 8th batch, BAUET
+Submited by: <br/>
+Md. Mehedi Hasan Protik <br/>
+CSE, 8th batch, BAUET <br/>
 
-A Project for
+A Project for 
 # CSE-4106
 # Software development and web apps sessional
